@@ -105,3 +105,6 @@
 [2021-11-12T01:32:01Z]Shutting down tullius due to user input
 [2021-11-12T01:35:16Z]Starting Tullius Server 
 [2021-11-12T01:35:24Z]Shutting down tullius due to user input
+[2021-11-12T01:41:43Z]Starting Tullius Server 
+[2021-11-12T01:51:53Z]Starting Tullius Server 
+[2021-11-12T01:52:08Z]Shutting down tullius due to user input

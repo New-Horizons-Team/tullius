@@ -11,7 +11,7 @@ import (
 	"github.com/fatih/color"
 
 	// Tullius
-	"github.com/e-valente/tullius/pkg/core"
+	"github.com/New-Horizons-Team/tullius/pkg/core"
 )
 
 var serverLog *os.File

@@ -3,11 +3,11 @@ package cli
 import (
 	"bufio"
 	"fmt"
-	"github.com/e-valente/tullius/pkg/api/messages"
-	"github.com/e-valente/tullius/pkg/banner"
-	"github.com/e-valente/tullius/pkg/logging"
-	awsscan "github.com/e-valente/tullius/pkg/modules/aws"
-	"github.com/e-valente/tullius/pkg/modules/network"
+	"github.com/New-Horizons-Team/tullius/pkg/api/messages"
+	"github.com/New-Horizons-Team/tullius/pkg/banner"
+	"github.com/New-Horizons-Team/tullius/pkg/logging"
+	"github.com/New-Horizons-Team/tullius/pkg/modules/aws"
+	"github.com/New-Horizons-Team/tullius/pkg/modules/network"
 	uuid "github.com/satori/go.uuid"
 	"io"
 	"log"
@@ -157,9 +157,9 @@ func Shell() {
 					case "back":
 						menuSetMain()
 					case "s3-bucket-scan":
-						awsscan.AWSS3ScanBucket()
+						aws_scan.AWSS3ScanObjects()
 					case "s3-object-scan":
-						awsscan.AWSS3ScanObjects()
+						aws_scan.AWSS3ScanObjects()
 					default:
 						if len(cmd) > 1 {
 							executeCommand(cmd[0], cmd[1:])

@@ -3,15 +3,15 @@ package main
 import (
 	// Standard
 	"flag"
-	"github.com/e-valente/tullius/pkg/logging"
 	"os"
 
 	// 3rd Party
 	"github.com/fatih/color"
 
 	// Tullius
-	"github.com/e-valente/tullius/pkg/banner"
-	"github.com/e-valente/tullius/pkg/cli"
+	"github.com/New-Horizons-Team/tullius/pkg/banner"
+	"github.com/New-Horizons-Team/tullius/pkg/cli"
+	"github.com/New-Horizons-Team/tullius/pkg/logging"
 )
 
 // Global Variables
