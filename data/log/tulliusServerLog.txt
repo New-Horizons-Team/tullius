@@ -1,0 +1,107 @@
+[2021-06-30T10:34:03Z]Starting Tullius Server version 
+[2021-06-30T10:35:38Z]Starting Tullius Server version 
+[2021-06-30T10:36:16Z]Starting Tullius Server version 
+[2021-06-30T10:37:38Z]Starting Tullius Server version 
+[2021-06-30T10:37:46Z]Starting Tullius Server version 
+[2021-06-30T11:05:17Z]Starting Tullius Server version 
+[2021-06-30T11:09:20Z]Starting Tullius Server version 
+[2021-06-30T11:10:23Z]Starting Tullius Server version 
+[2021-06-30T11:20:41Z]Starting Tullius Server version 
+[2021-06-30T19:34:01Z]Starting Tullius Server version 
+[2021-07-10T12:20:27Z]Starting Tullius Server version 
+[2021-07-10T12:22:30Z]Starting Tullius Server version 
+[2021-07-10T12:29:30Z]Starting Tullius Server version 
+[2021-07-10T12:30:14Z]Starting Tullius Server version 
+[2021-07-10T15:33:40Z]Starting Tullius Server version 
+[2021-07-10T15:34:01Z]Starting Tullius Server version 
+[2021-07-10T15:35:18Z]Starting Tullius Server version 
+[2021-07-10T15:35:57Z]Starting Tullius Server version 
+[2021-07-10T15:36:13Z]Starting Tullius Server version 
+[2021-07-10T15:36:24Z]Starting Tullius Server version 
+[2021-07-10T15:37:06Z]Starting Tullius Server version 
+[2021-07-10T15:39:00Z]Starting Tullius Server version 
+[2021-07-10T15:50:37Z]Starting Tullius Server version 
+[2021-07-10T16:55:12Z]Starting Tullius Server version 
+[2021-07-10T16:55:36Z]Starting Tullius Server version 
+[2021-07-10T17:10:57Z]Starting Tullius Server version 
+[2021-07-10T17:11:38Z]Starting Tullius Server version 
+[2021-07-10T17:12:32Z]Starting Tullius Server version 
+[2021-07-10T17:14:25Z]Starting Tullius Server version 
+[2021-07-10T17:14:49Z]Starting Tullius Server version 
+[2021-07-10T17:19:33Z]Starting Tullius Server version 
+[2021-07-10T17:20:06Z]Starting Tullius Server version 
+[2021-07-10T17:21:29Z]Starting Tullius Server version 
+[2021-07-10T17:25:24Z]Starting Tullius Server version 
+[2021-07-10T17:26:08Z]Starting Tullius Server version 
+[2021-07-10T17:26:44Z]Starting Tullius Server version 
+[2021-07-10T17:30:24Z]Starting Tullius Server version 
+[2021-07-10T17:31:22Z]Starting Tullius Server version 
+[2021-07-10T17:32:18Z]Starting Tullius Server version 
+[2021-07-10T17:32:59Z]Shutting down tullius due to user input
+[2021-07-10T17:37:06Z]Starting Tullius Server version 
+[2021-07-10T17:40:24Z]Starting Tullius Server version 
+[2021-07-10T17:40:37Z]Starting Tullius Server version 
+[2021-08-15T13:15:28Z]Starting Tullius Server version 
+[2021-08-15T13:18:12Z]Starting Tullius Server version 
+[2021-08-15T13:21:01Z]Starting Tullius Server version 
+[2021-08-15T13:22:00Z]Starting Tullius Server version 
+[2021-08-15T13:23:36Z]Starting Tullius Server version 
+[2021-08-15T13:27:55Z]Starting Tullius Server version 
+[2021-08-15T13:30:10Z]Starting Tullius Server version 
+[2021-08-15T13:31:07Z]Starting Tullius Server version 
+[2021-08-15T13:31:11Z]Starting Tullius Server version 
+[2021-08-15T13:31:41Z]Starting Tullius Server version 
+[2021-08-15T13:31:53Z]Starting Tullius Server version 
+[2021-08-15T13:32:09Z]Starting Tullius Server version 
+[2021-08-15T13:32:23Z]Starting Tullius Server version 
+[2021-08-15T13:32:31Z]Starting Tullius Server version 
+[2021-08-15T13:32:35Z]Starting Tullius Server version 
+[2021-08-15T13:32:45Z]Starting Tullius Server version 
+[2021-08-15T13:32:57Z]Starting Tullius Server version 
+[2021-08-15T13:33:12Z]Starting Tullius Server version 
+[2021-08-15T13:33:36Z]Starting Tullius Server version 
+[2021-08-15T13:33:53Z]Shutting down tullius due to user input
+[2021-08-15T13:33:58Z]Starting Tullius Server version 
+[2021-08-15T13:34:08Z]Starting Tullius Server version 
+[2021-08-15T13:34:19Z]Shutting down tullius due to user input
+[2021-08-15T13:37:47Z]Starting Tullius Server version 
+[2021-08-15T13:38:42Z]Starting Tullius Server version 
+[2021-08-15T13:39:39Z]Starting Tullius Server version 
+[2021-08-15T13:40:41Z]Starting Tullius Server version 
+[2021-08-15T13:41:20Z]Starting Tullius Server version 
+[2021-08-15T13:41:27Z]Starting Tullius Server version 
+[2021-08-15T13:41:40Z]Starting Tullius Server version 
+[2021-08-15T13:41:46Z]Starting Tullius Server version 
+[2021-08-15T13:42:50Z]Starting Tullius Server version 
+[2021-08-15T13:43:08Z]Starting Tullius Server version 
+[2021-08-15T13:43:23Z]Starting Tullius Server version 
+[2021-08-15T13:44:48Z]Starting Tullius Server version 
+[2021-08-15T13:45:18Z]Starting Tullius Server version 
+[2021-08-15T13:45:44Z]Starting Tullius Server version 
+[2021-11-12T00:45:13Z]Starting Tullius Server version 
+[2021-11-12T00:45:37Z]Starting Tullius Server version 
+[2021-11-12T00:46:09Z]Starting Tullius Server version 
+[2021-11-12T00:48:41Z]Shutting down tullius due to user input
+[2021-11-12T00:48:53Z]Starting Tullius Server version 
+[2021-11-12T00:49:11Z]Shutting down tullius due to user input
+[2021-11-12T00:49:51Z]Starting Tullius Server version 
+[2021-11-12T00:50:40Z]Starting Tullius Server version 
+[2021-11-12T00:59:21Z]Starting Tullius Server 
+[2021-11-12T01:09:47Z]Starting Tullius Server 
+[2021-11-12T01:11:19Z]Starting Tullius Server 
+[2021-11-12T01:11:49Z]Starting Tullius Server 
+[2021-11-12T01:14:36Z]Starting Tullius Server 
+[2021-11-12T01:23:53Z]Starting Tullius Server 
+[2021-11-12T01:26:23Z]Starting Tullius Server 
+[2021-11-12T01:26:31Z]Shutting down tullius due to user input
+[2021-11-12T01:26:57Z]Starting Tullius Server 
+[2021-11-12T01:27:17Z]Shutting down tullius due to user input
+[2021-11-12T01:28:11Z]Starting Tullius Server 
+[2021-11-12T01:30:07Z]Shutting down tullius due to user input
+[2021-11-12T01:30:13Z]Starting Tullius Server 
+[2021-11-12T01:31:03Z]Starting Tullius Server 
+[2021-11-12T01:31:26Z]Shutting down tullius due to user input
+[2021-11-12T01:31:37Z]Starting Tullius Server 
+[2021-11-12T01:32:01Z]Shutting down tullius due to user input
+[2021-11-12T01:35:16Z]Starting Tullius Server 
+[2021-11-12T01:35:24Z]Shutting down tullius due to user input
